@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4yankchoudhary)](https://github.com/anuraghazra/github-readme-stats)
 
-![alt-text](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
+![giphy](giphy.gif)
 
