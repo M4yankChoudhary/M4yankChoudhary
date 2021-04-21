@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Get in touch:
 
 [<img align="left" alt="mayank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
-
+<br>
 [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4yankchoudhary)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedIn]: https://www.linkedin.com/in/mayank--choudhary/
