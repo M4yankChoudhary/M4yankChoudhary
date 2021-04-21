@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
+![linux tux](./tux.gif)
 
 
 ### Get in touch:
