@@ -54,5 +54,3 @@ Here are some ideas to get you started:
 <!-- [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4yankchoudhary)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [linkedIn]: https://www.linkedin.com/in/mayank--choudhary/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4yankchoudhary)](https://github.com/M4yankChoudhary?tab=repositories)
