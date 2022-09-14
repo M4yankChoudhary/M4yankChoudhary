@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<p align="center">
+  <img src="./tux.gif" />
+</p>
+
 ## Languages, tools and skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -39,10 +44,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 <!-- ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) -->
-<p align="center">
-  <img src="./tux.gif" />
-</p>
-
 
 
 
