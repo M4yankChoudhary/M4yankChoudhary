@@ -41,6 +41,8 @@ Here are some ideas to get you started:
   <img src="./tux.gif" />
 </p>
 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=m4yankchoudhary)](https://git.io/streak-stats)
+
 
 ### Get in touch:
 
