@@ -6,7 +6,7 @@ into a career has been an incredible and rewarding experience for me.
 Linux is the core of everything and I love diving into linux.
 ### Portfolio: https://mayankchoudhary.me/
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=m4yankchoudhary&border_radius=32)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=m4yankchoudhary&border_radius=32)
 
 <!--
 **M4yankChoudhary/M4yankChoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
