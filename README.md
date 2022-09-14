@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="./tux.gif" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=m4yankchouhdary&border_radius=32)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m4yankchoudhary&border_radius=32)](https://git.io/streak-stats)
 
 
 ### Get in touch:
