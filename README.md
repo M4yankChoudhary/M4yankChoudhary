@@ -33,9 +33,10 @@ Linux is the core of everything and I love diving into linux.
 
 
 
-### Get in touch:
+### Get in touch 🤝:
 
-[<img align="left" alt="mayank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
+[<img align="left" alt="mayank | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedIn]
+
 <br>
 <br>
 
