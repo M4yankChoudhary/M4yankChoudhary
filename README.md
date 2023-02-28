@@ -1,9 +1,5 @@
 # Hi there 👋 My name is Mayank Choudhary.
-I am a CSE student and a Self-taught developer with
-interests in Android development and Web Development.
-Programming is my hobby and transforming a hobby
-into a career has been an incredible and rewarding experience for me.
-Linux is the core of everything and I love diving into linux.
+Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful. Mobile and Web Developer with 3+ years of work experience in building industry ready futuristic pixel perfect apps and building scalable backend.
 ### Portfolio: https://mayankchoudhary.me/
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=m4yankchoudhary&border_radius=32)
