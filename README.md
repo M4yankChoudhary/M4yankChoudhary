@@ -1,8 +1,6 @@
 # Hi there 👋 My name is Mayank Choudhary.
 Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful. Mobile and Web Developer with 3+ years of work experience in building industry ready futuristic pixel perfect apps and building scalable backend.
 
-# ⚡️ I DO THINGS THAT AI CAN'T
-
 <p align="center">
 https://mayankchoudhary.me/
 </p>
