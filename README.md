@@ -7,7 +7,7 @@ https://mayankchoudhary.me/
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=m4yankchoudhary&border_radius=32" />
+  <img src="https://streak-stats.demolab.com?user=m4yankchoudhary&theme=dark&border_radius=32" />
 </p>
 
 <p align="center">
