@@ -3,11 +3,14 @@ Young Enthusiast self-taught developer who is giving his every minute of life in
 
 # ⚡️ I DO THINGS THAT AI CAN'T
 
-### Portfolio: https://mayankchoudhary.me/
+<p align="center">
+https://mayankchoudhary.me/
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=m4yankchoudhary&border_radius=32)
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=m4yankchoudhary&border_radius=32" />
+</p>
 
 <p align="center">
   <img src="./tux.gif" />
