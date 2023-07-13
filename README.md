@@ -1,5 +1,6 @@
 # Hi there 👋 My name is Mayank Choudhary.
-Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful. Mobile and Web Developer with 3+ years of work experience in building industry ready futuristic pixel perfect apps and building scalable backend.
+
+Experienced self-taught developer with a passion for creating innovative, pixel-perfect mobile and web applications. Skilled in building scalable backends and dedicated to delivering exceptional results. Constantly seeking new challenges and staying up to date with the latest industry trends. Committed to delivering high-quality solutions that exceed expectations.
 
 <p align="center">
 https://mayankchoudhary.me/
