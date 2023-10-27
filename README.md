@@ -39,4 +39,4 @@ https://mayankchoudhary.me/
 
 <!-- [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4yankchoudhary)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[linkedIn]: https://www.linkedin.com/in/mayank--choudhary/
+[linkedIn]: https://www.linkedin.com/in/mayank--choudhary/ 
