@@ -9,10 +9,15 @@ https://mayankchoudhary.me/
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=m4yankchoudhary&theme=dark&border_radius=32" />
+  
 </p>
 
 <p align="center">
   <img src="./tux.gif" />
+</p>
+
+<p align="center">
+  
 </p>
 
 ## Languages, tools and skills
@@ -39,4 +44,4 @@ https://mayankchoudhary.me/
 
 <!-- [![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4yankchoudhary)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[linkedIn]: https://www.linkedin.com/in/mayank--choudhary/ 
+[linkedIn]: https://www.linkedin.com/in/mayank--choudhary/ 
