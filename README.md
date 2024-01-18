@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Mayank Choudhary.
 
-Experienced self-taught developer with a passion for creating innovative, pixel-perfect mobile and web applications. Skilled in building scalable backends and dedicated to delivering exceptional results. Constantly seeking new challenges and staying up to date with the latest industry trends. Committed to delivering high-quality solutions that exceed expectations.
+Expert in Crafting Mobile and Web Apps. Experienced self-taught developer with a passion for creating innovative, pixel-perfect mobile and web applications. Skilled in building scalable backends and dedicated to delivering exceptional results. Constantly seeking new challenges and staying up to date with the latest industry trends. Committed to delivering high-quality solutions that exceed expectations.
 
 <p align="center">
 https://mayankchoudhary.me/
@@ -9,7 +9,6 @@ https://mayankchoudhary.me/
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=m4yankchoudhary&theme=dark&border_radius=32" />
-  
 </p>
 
 <p align="center">
