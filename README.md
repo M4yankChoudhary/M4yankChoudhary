@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.png" />
+  <img src="./header-image.png" />
 </p>
 
 # Hi there 👋 My name is Mayank Choudhary.
