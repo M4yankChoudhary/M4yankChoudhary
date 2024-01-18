@@ -4,7 +4,7 @@
 
 # Hi there 👋 My name is Mayank Choudhary.
 
-Expert in Crafting Mobile and Web Apps. Experienced self-taught developer with a passion for creating innovative, pixel-perfect mobile and web applications. Skilled in building scalable backends and dedicated to delivering exceptional results. Constantly seeking new challenges and staying up to date with the latest industry trends. Committed to delivering high-quality solutions that exceed expectations.
+Versatile and accomplished in the realm of mobile and web application development, I am a seasoned self-taught developer driven by a fervor for crafting cutting-edge and meticulously polished digital solutions. Proficient in the art of constructing scalable backends, my dedication is unwavering in delivering results that transcend conventional standards. My professional journey is marked by an insatiable appetite for tackling novel challenges and an unwavering commitment to staying abreast of the ever-evolving landscape of industry trends. With an unyielding focus on excellence, I pledge to consistently deliver superlative, high-quality solutions that not only meet but exceed expectations.
 
 <p align="center">
 https://mayankchoudhary.me/
