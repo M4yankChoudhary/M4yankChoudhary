@@ -5,6 +5,20 @@
 ### Expert App Developer.
 Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful. Mobile with 3+ years of work experience in building industry ready futuristic pixel perfect apps. https://mayankchoudhary.com
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./exa-charge-2fed72f5.jpg" alt="Description of image 1" style="width: 200px; height: auto;">
+  <img src="./forgo-0bbecc7b.png" alt="Description of image 4" style="width: 200px; height: auto;">
+  <img src="./banqu-f4586464.png" alt="Description of image 2" style="width: 200px; height: auto;">
+  <img src="./circswap-a30fc3c4.png" alt="Description of image 3" style="width: 200px; height: auto;">
+  <img src="./kivi-vpn-a2a567d1.png" alt="Description of image 3" style="width: 200px; height: auto;">
+  <img src="./medic-7bd54e86.png" alt="Description of image 3" style="width: 200px; height: auto;">
+  <img src="./green_saver-b798d508.png" alt="Description of image 3" style="width: 200px; height: auto;">
+    <img src="./next_gen_tech-d7c0951d.png" alt="Description of image 3" style="width: 200px; height: auto;">
+   <img src="./secrendipty-f0ea0045.png" alt="Description of image 3" style="width: 200px; height: auto;">
+     <img src="./1712860265493.jpeg" alt="Description of image 3" style="width: 200px; height: auto;">
+ 
+  <!-- Add more images as needed -->
+</div>
 
 <!-- <p align="center">
   <img src="./tux.gif" />
