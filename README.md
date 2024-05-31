@@ -1,7 +1,7 @@
 
 
 ### Expert App Developer.
-I am a self-taught developer driven by a fervor for crafting cutting-edge and meticulously polished digital solutions. Proficient in the art of constructing scalable backends, my dedication is unwavering in delivering results that transcend conventional standards. My professional journey is marked by an insatiable appetite for tackling novel challenges and an unwavering commitment to staying abreast of the ever-evolving landscape of industry trends. With an unyielding focus on excellence, I pledge to consistently deliver superlative, high-quality solutions that not only meet but exceed expectations. https://mayankchoudhary.com
+Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful. Mobile with 3+ years of work experience in building industry ready futuristic pixel perfect apps. https://mayankchoudhary.com
 
 <p align="center">
   <img src="./tux.gif" />
