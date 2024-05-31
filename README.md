@@ -1,15 +1,16 @@
-
+<p align="center">
+  
+</p>
 
 ### Expert App Developer.
 Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful. Mobile with 3+ years of work experience in building industry ready futuristic pixel perfect apps. https://mayankchoudhary.com
 
-<p align="center">
-  <img src="./tux.gif" />
-</p>
 
-<p align="center">
-  
-</p>
+<!-- <p align="center">
+  <img src="./tux.gif" />
+</p> -->
+
+
 
 ## Languages, tools and skills
 
