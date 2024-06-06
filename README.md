@@ -6,7 +6,7 @@
 </p>
 
 ### Expert App Developer.
-Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful. Mobile with 3+ years of work experience in building industry ready futuristic pixel perfect apps. https://mayankchoudhary.com
+Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful.  with 3+ years of work experience in building industry ready futuristic pixel perfect apps. https://mayankchoudhary.com
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./exa-charge-2fed72f5.jpg" alt="Description of image 1" style="width: 200px; height: auto;">
