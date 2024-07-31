@@ -5,6 +5,12 @@
   <img style="width: 200px; height: auto;" src="./headerpng.png" />
 </p>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 ### Expert App Developer.
 Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful.  with 3+ years of work experience in building industry ready futuristic pixel perfect apps. https://mayankchoudhary.com
 
