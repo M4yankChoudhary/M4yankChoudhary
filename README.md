@@ -11,8 +11,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-### Expert App Developer.
-Young Enthusiast self-taught developer who is giving his every minute of life in developing something great and useful.  with 3+ years of work experience in building industry ready futuristic pixel perfect apps. https://mayankchoudhary.com
+### Expert AI Product Engineer.
+An AI Product Engineer with 5+ years of experience building real products.
+I love building GenAI-powered products RAG pipelines, AI chatbots, and browser extensions for real-time threat detection. I work across the full stack: FastAPI, React, TypeScript, LangChain, and AWS.
+Shipped apps used by real users from EV charging platforms to podcast monetization tools to live payment systems.
+Led teams, mentored 900+ developers across 28 countries at Postman API Fest, and won a Cloud Native Hackathon.
+What I bring 
+→ Full stack depth + AI engineering + ability to ship end to end independently. https://mayankchoudhary.com
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./exa-charge-2fed72f5.jpg" alt="Description of image 1" style="width: 200px; height: auto;">
